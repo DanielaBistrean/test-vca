@@ -1,3 +1,3 @@
 # test-vca
 A test repo
-Gerrit test.
+Gerrit test
